@@ -1,2 +1,2 @@
-# webscraping-immobiliare
-webscrape the immbobilare.it tomake analysys about prices in every city in italy. choose between affitto o vendita
+# webscraping immobiliare
+webscrape the immobiliare.it to make analysis about prices in every city in italy. choose between affitto-case o vendita-case
