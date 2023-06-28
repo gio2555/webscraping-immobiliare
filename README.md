@@ -1,2 +1,2 @@
 # webscraping-immobiliare
-webscrape the immbobilare.it to see prices by number of rooms and much more
+webscrape the immbobilare.it tomake analysys about prices in every city in italy. choose between affitto o vendita
